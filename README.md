@@ -1,2 +1,2 @@
-# lockbur.github.io
-婚纱相册
+# 图片主题，单页
+可用于pages部署，也可自写后台
